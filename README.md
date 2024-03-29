@@ -19,4 +19,5 @@ The dashboard gives the information about:
 
 Since its an interactive dashboard, it shows changes in all the above mentioned parameters.
 
-The csv files of the employee data has also been provided
+The csv files of the employee data has also been provided.
+Thanks
